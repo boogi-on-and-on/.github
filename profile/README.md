@@ -24,7 +24,8 @@
 
 
 ## 서버 아키텍쳐
-<img width="1122" alt="server-architecture" src="https://user-images.githubusercontent.com/42235949/169652193-27047466-5099-4cde-8599-6aaad6842eac.png">
+<img width="1125" alt="server-architecture" src="https://user-images.githubusercontent.com/42235949/169689004-f1eb88d0-0623-4c64-91aa-c8a818abf83e.png">
+
 
 ## 기술스택 및 환경
 ### 벡엔드
