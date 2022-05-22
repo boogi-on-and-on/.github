@@ -1,15 +1,6 @@
 #  boogi-on-and-on
 > 한성대 학생들을 위한 커뮤니티 IOS APP
 
-## Repository
-* [boogi-api-server](https://github.com/boogi-on-and-on/boogi-api-server)
-    * 메인 API 서버
-* [boogi-iOS](https://github.com/boogi-on-and-on/boogi-iOS)
-* [boogi-lambda-api](https://github.com/boogi-on-and-on/boogi-lambda-api)
-    * 푸시 알람을 위한 AWS lambda 코드
-* [boogi-image-server](https://github.com/boogi-on-and-on/boogi-image-server)
-    * 이미지 리사이징을 위한 서버
-  
 ## 팀원
 ### 벡엔드
 * 김선도 sdcodebase@gmail.com [github link](https://github.com/sdcodebase)
@@ -34,9 +25,20 @@
 * MariaDB, Redis
 * AWS EC2, RDS, ElastiCache, S3, Lambda, API Gateway
 
+### Repository
+* [boogi-api-server](https://github.com/boogi-on-and-on/boogi-api-server)
+    * 메인 API 서버
+* [boogi-lambda-api](https://github.com/boogi-on-and-on/boogi-lambda-api)
+    * 푸시 알람을 위한 AWS lambda 코드
+* [boogi-image-server](https://github.com/boogi-on-and-on/boogi-image-server)
+    * 이미지 리사이징을 위한 서버
+
+
 ### iOS
 * Xcode Swift5
 
-
+### Repository
+* [boogi-iOS](https://github.com/boogi-on-and-on/boogi-iOS)
+    * 네이티브 iOS 코드
 
 
