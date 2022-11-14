@@ -15,7 +15,8 @@
 
 
 ## 서버 아키텍쳐
-<img width="1125" alt="server-architecture" src="https://user-images.githubusercontent.com/42235949/169689004-f1eb88d0-0623-4c64-91aa-c8a818abf83e.png">
+<img width="1092" alt="스크린샷 2022-11-14 오후 4 01 35" src="https://user-images.githubusercontent.com/42235949/201595589-b6517c75-9272-42c4-aab0-688972dfc707.png">
+
 
 
 ## 기술스택 및 환경
