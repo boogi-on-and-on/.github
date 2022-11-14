@@ -29,7 +29,7 @@
 ### Repository
 * [boogi-api-server](https://github.com/boogi-on-and-on/boogi-api-server)
     * 메인 API 서버
-    * [api-spect](https://foradun.notion.site/API-09093190e1444502aa6bdcbbd1233a2a)
+    * [api-spec](https://foradun.notion.site/API-09093190e1444502aa6bdcbbd1233a2a)
 * [boogi-lambda-api](https://github.com/boogi-on-and-on/boogi-lambda-api)
     * 푸시 알람을 위한 AWS lambda 코드
 * [boogi-image-server](https://github.com/boogi-on-and-on/boogi-image-server)
